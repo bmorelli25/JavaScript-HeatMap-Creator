@@ -1,0 +1,14 @@
+{
+  "name": "javascript-heatmap-creator",
+  "version": "1.0.0",
+  "description": "An easy way to visualize your location history with Google and JavaScript",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Brandon Morelli",
+  "license": "MIT"
+}
